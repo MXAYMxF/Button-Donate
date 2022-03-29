@@ -1,0 +1,36 @@
+h1 #title{
+	text-align: center;
+	align-content: center;
+}
+body {
+line-height: 30pt;
+}
+body p.ar, p>ul.ar, li.ar{
+	/*color: red;*/
+	font-family: courier;
+}
+body p.btn {
+	text-align: center;	
+}
+body div #en {
+	/*color: green;*/
+	text-align: left; 
+	direction: ltr;
+
+}
+
+body ol#englist,li#englist,ul#englist{
+/*	color: green;*/
+	direction: ltr;
+	text-align: left;
+
+}
+body a {
+	color: #00A1CB;
+	text-decoration: none;
+	margin-left: 2pt;
+}
+body a:hover {
+	color: #00A1CB;
+	background-color: #f0f0f0
+}
